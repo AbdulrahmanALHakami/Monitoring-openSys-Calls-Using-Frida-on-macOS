@@ -50,9 +50,7 @@ on the Terminal
 
 This shows that the application attempted to open a .lproj file in the system library. You can use this to monitor any files the application is trying to open, which might help detect unwanted file access.
 
+Abdulrahman AL-Hakami
 
-made by Abdulrahman AL-Hakami
 
-twiiter : @d7xsa
-telegram @d7xsa
-youtube: https://www.youtube.com/@D7XSA
+
